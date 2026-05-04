@@ -1,29 +1,20 @@
-<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="420" fill="#222730"/>
-  <rect x="36" y="28" width="1128" height="364" fill="#2B3446" stroke="#4D5E80" stroke-width="2"/>
-  <rect x="54" y="46" width="1092" height="328" fill="#243043"/>
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="220" fill="#222730"/>
+  <rect x="36" y="28" width="1128" height="164" fill="#2B3446" stroke="#4D5E80" stroke-width="2"/>
+  <rect x="54" y="46" width="1092" height="128" fill="#243043"/>
 
   <text x="86" y="102" fill="#E6EBF7" font-family="'Courier New', monospace" font-size="52" font-weight="700">KIKI</text>
   <text x="86" y="140" fill="#BBC8E3" font-family="'Courier New', monospace" font-size="22">ARTIFICIAL INTELLIGENCE MAJOR</text>
   <rect x="86" y="144" width="320" height="6" fill="#94A5CC"/>
-
-  <text x="86" y="188" fill="#BBC8E3" font-family="'Courier New', monospace" font-size="18">ABOUT</text>
-  <text x="86" y="214" fill="#DFE5F2" font-family="'Courier New', monospace" font-size="17">LEARNING BY BUILDING SMALL ML + SIMULATION PROJECTS.</text>
-
-  <text x="86" y="254" fill="#BBC8E3" font-family="'Courier New', monospace" font-size="18">STACK</text>
-  <text x="86" y="280" fill="#DFE5F2" font-family="'Courier New', monospace" font-size="17">SEE STACK CHART BELOW</text>
-
-  <text x="86" y="322" fill="#BBC8E3" font-family="'Courier New', monospace" font-size="18">PROJECT SETLIST</text>
-  <text x="86" y="348" fill="#DFE5F2" font-family="'Courier New', monospace" font-size="17">01 RL CAR RACING  02 PERSONA  03 BALATRO-STYLE GODOT + LLM CARDS</text>
 
   <g opacity=".38">
     <rect x="1012" y="74" width="14" height="14" fill="#97AACF"/>
     <rect x="1034" y="96" width="10" height="10" fill="#7888AA"/>
     <rect x="1052" y="78" width="8" height="8" fill="#BCC9E0"/>
     <rect x="1086" y="92" width="12" height="12" fill="#97AACF"/>
-    <rect x="1038" y="246" width="12" height="36" fill="#8EA2C8"/>
-    <rect x="1058" y="228" width="12" height="54" fill="#BCC9E0"/>
-    <rect x="1078" y="238" width="12" height="44" fill="#8EA2C8"/>
-    <rect x="1098" y="218" width="12" height="64" fill="#DFE5F2"/>
+    <rect x="1038" y="106" width="12" height="28" fill="#8EA2C8"/>
+    <rect x="1058" y="92" width="12" height="42" fill="#BCC9E0"/>
+    <rect x="1078" y="100" width="12" height="34" fill="#8EA2C8"/>
+    <rect x="1098" y="86" width="12" height="48" fill="#DFE5F2"/>
   </g>
 </svg>
