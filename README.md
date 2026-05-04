@@ -1,13 +1,13 @@
 <h1 align="center">Zhang Ruizhe</h1>
-<p align="center"><b>AI Student @ MUST</b> · Robotics · Diffusion Policy · Reinforcement Learning</p>
+<p align="center"><b>AI 专业学生 @ MUST</b></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=780&lines=Building+intelligent+agents+through+experiments;Robotics+Simulation+%7C+Diffusion+%7C+RL+%7C+Attention" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Student+at+MUST;Learning+by+building+real+projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Macau-UTC%2B8-1f6feb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Robotics%20AI-238636?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Macau-UTC%2B8-2f81f7?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Major-Artificial%20Intelligence-3fb950?style=for-the-badge&logoColor=white&labelColor=0d1117" />
 </p>
 
 ---
