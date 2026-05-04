@@ -57,12 +57,12 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=onp-china&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=onp-china&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://streak-stats.demolab.com?user=onp-china&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onp-china&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=onp-china&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -70,7 +70,7 @@
 ## WakaTime
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=onp_china&theme=tokyonight&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=onp_china&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
 > If this card is empty, make sure your WakaTime profile is public and your username is correct.
