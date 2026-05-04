@@ -59,7 +59,7 @@ I like learning by building small projects in machine learning, simulation, and 
       <br />
       <b>03 · Robotics Course Project</b>
       <br />
-      <sub>Team project on robotics simulation and control.</sub>
+      <sub>Roughly recreated Balatro in Godot, and experimented with adding LLM-based cards.</sub>
     </td>
   </tr>
 </table>
