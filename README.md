@@ -12,7 +12,13 @@
 
 ---
 
-## Toolkit
+<p align="center">
+  <img src="./assets/status-panel.svg" alt="current save file" />
+</p>
+
+---
+
+## Inventory
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,c,rust,vue,godot" alt="tech stack" />
