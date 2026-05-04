@@ -32,11 +32,34 @@ I like learning by building small projects in machine learning, simulation, and 
 
 ## Project Setlist
 
-[01 · RL Car Racing](https://github.com/onp-china/RL_class_Project-Car_racing)  
-Reinforcement learning course project in a car-racing environment.
-
-[02 · Persona](https://github.com/onp-china/Persona)  
-A project exploring persona-based AI interaction.
-
-[03 · Robotics Course Project](https://github.com/BSAI301/course-project-ex1-team-2)  
-Team project on robotics simulation and control.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/onp-china/RL_class_Project-Car_racing">
+        <img src="https://raw.githubusercontent.com/onp-china/RL_class_Project-Car_racing/main/images/images/carracing.gif" alt="RL Car Racing preview" width="100%" />
+      </a>
+      <br />
+      <b>01 · RL Car Racing</b>
+      <br />
+      <sub>Reinforcement learning course project in a car-racing environment.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/onp-china/Persona">
+        <img src="https://raw.githubusercontent.com/onp-china/Persona/main/src/assets/characters/rin.jpeg" alt="Persona preview" width="100%" />
+      </a>
+      <br />
+      <b>02 · Persona</b>
+      <br />
+      <sub>A project exploring persona-based AI interaction.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/BSAI301/course-project-ex1-team-2">
+        <img src="./assets/robotics-preview.png" alt="Robotics Course Project preview" width="100%" />
+      </a>
+      <br />
+      <b>03 · Robotics Course Project</b>
+      <br />
+      <sub>Team project on robotics simulation and control.</sub>
+    </td>
+  </tr>
+</table>
