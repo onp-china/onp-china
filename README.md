@@ -70,7 +70,7 @@
 ## WakaTime
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=onp_china&theme=tokyonight&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=onp-china&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
 > If this card is empty, make sure your WakaTime profile is public and your username is correct.
