@@ -10,8 +10,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/MAJOR-Artificial%20Intelligence-A7B4CC?style=for-the-badge&labelColor=2B3446" alt="Major" />
-  <img src="https://img.shields.io/badge/LOCATION-Macau%20(UTC%2B8)-9AA8C3?style=for-the-badge&labelColor=2B3446" alt="Location" />
-  <img src="https://img.shields.io/badge/FOCUS-ML%20%7C%20Simulation%20%7C%20Engineering-BBC5D8?style=for-the-badge&labelColor=2B3446" alt="Focus" />
 </p>
 
 <p align="center">
