@@ -1,12 +1,19 @@
 <p align="center">
-  <img src="./assets/hero-glass.svg" alt="Profile Hero" />
+  <img src="./assets/yamada-ryo.png" alt="Yamada Ryo night scene" />
+</p>
+
+<h1 align="center">Zhang Ruizhe</h1>
+<p align="center">AI student at MUST · Macau (UTC+8)</p>
+
+<p align="center">
+  <img src="./assets/music-strip.svg" alt="Night music strip" />
 </p>
 
 ## About
 
-I am an undergraduate AI student at Macau University of Science and Technology.
+I am an undergraduate student majoring in Artificial Intelligence.
 
-I enjoy learning through small projects and experiments in machine learning, simulation, and practical system building.
+I like learning by building small projects in machine learning, simulation, and practical engineering.
 
 ## Stack
 
@@ -23,13 +30,13 @@ I enjoy learning through small projects and experiments in machine learning, sim
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=onp-china&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-## Projects
+## Project Setlist
 
-[RL Car Racing](https://github.com/onp-china/RL_class_Project-Car_racing)  
-Reinforcement learning course project in a car racing environment.
+[01 · RL Car Racing](https://github.com/onp-china/RL_class_Project-Car_racing)  
+Reinforcement learning course project in a car-racing environment.
 
-[Persona](https://github.com/onp-china/Persona)  
-A small project exploring persona-based AI interaction.
+[02 · Persona](https://github.com/onp-china/Persona)  
+A project exploring persona-based AI interaction.
 
-[Robotics Course Project](https://github.com/BSAI301/course-project-ex1-team-2)  
-Team course project related to robotics simulation and control.
+[03 · Robotics Course Project](https://github.com/BSAI301/course-project-ex1-team-2)  
+Team project on robotics simulation and control.
