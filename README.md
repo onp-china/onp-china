@@ -6,10 +6,16 @@
   <img src="./assets/yamada-ryo-intro.png" alt="Yamada Ryo intro photo" />
 </p>
 
-## Stack Chart
+## Stack
 
 <p align="center">
-  <img height="185" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=onp-china&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/MAJOR-Artificial%20Intelligence-A7B4CC?style=for-the-badge&labelColor=2B3446" alt="Major" />
+  <img src="https://img.shields.io/badge/LOCATION-Macau%20(UTC%2B8)-9AA8C3?style=for-the-badge&labelColor=2B3446" alt="Location" />
+  <img src="https://img.shields.io/badge/FOCUS-ML%20%7C%20Simulation%20%7C%20Engineering-BBC5D8?style=for-the-badge&labelColor=2B3446" alt="Focus" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,c,cpp,rust,vue,godot&theme=dark" alt="Skill Icons" />
 </p>
 
 <table>
@@ -57,6 +63,13 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=onp-china&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=onp-china&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="92%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=onp-china&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img width="92%" src="https://streak-stats.demolab.com?user=onp-china&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="92%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=onp-china&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
