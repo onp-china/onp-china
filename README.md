@@ -8,9 +8,7 @@
   <img src="https://img.shields.io/badge/Mood-quiet%20but%20building-d9e7ff?style=for-the-badge&labelColor=0b1020" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1400&color=75A7FF&center=true&vCenter=true&width=900&lines=AI+student+at+MUST;learning+through+small+experiments;code+%2B+models+%2B+simulation" alt="typing line" />
-</p>
+<p align="center"><code>AI student at MUST · learning through small experiments · code + models + simulation</code></p>
 
 ---
 
