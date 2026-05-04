@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="./assets/yamada-ryo.png" alt="Yamada Ryo night scene" />
-</p>
-
-<p align="center">
   <img src="./assets/music-strip.svg" alt="Night music strip" />
 </p>
 
 <p align="center">
   <img src="./assets/pixel-profile-panel.svg" alt="Kiki pixel profile panel" />
+</p>
+
+<p align="center">
+  <img src="./assets/yamada-ryo-intro.png" alt="Yamada Ryo intro photo" />
 </p>
 
 <table>
