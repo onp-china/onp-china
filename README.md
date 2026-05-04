@@ -1,4 +1,7 @@
-<h1 align="center">Zhang Ruizhe</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=140&section=header&text=Zhang%20Ruizhe&fontColor=58a6ff&fontSize=46&font=Press%20Start%202P&animation=fadeIn" />
+</p>
+
 <p align="center"><b>AI 专业学生 @ MUST</b></p>
 
 <p align="center">
@@ -33,7 +36,7 @@
 
 <p align="center">
   <a href="https://github.com/BSAI301/course-project-ex1-team-2">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BSAI301&repo=course-project-ex1-team-2&theme=tokyonight&hide_border=true" />
+    <img src="https://img.shields.io/badge/Team_Project-course--project--ex1--team--2-58a6ff?style=for-the-badge&labelColor=0d1117" />
   </a>
 </p>
 
