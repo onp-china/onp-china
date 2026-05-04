@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/pixel-banner.svg" alt="pixel banner" />
+  <img src="./assets/yamada-ryo.png" alt="Yamada Ryo banner" />
 </p>
 
 <p align="center">
