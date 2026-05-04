@@ -1,24 +1,27 @@
 <p align="center">
-  <img src="./assets/yamada-ryo.png" alt="Yamada Ryo" />
+  <img src="./assets/hero-glass.svg" alt="Profile Hero" />
 </p>
-
-<h1 align="center">Zhang Ruizhe</h1>
-
-<p align="center">
-  AI student at MUST · Macau, UTC+8
-</p>
-
----
 
 ## About
 
-I am an undergraduate student majoring in Artificial Intelligence at Macau University of Science and Technology.
+I am an undergraduate AI student at Macau University of Science and Technology.
 
-I am currently learning through small projects and experiments, with an interest in machine learning, simulation, and building useful systems.
+I enjoy learning through small projects and experiments in machine learning, simulation, and practical system building.
 
-## Tools
+## Stack
 
 `Python` · `PyTorch` · `C` · `C++` · `Rust` · `Vue` · `GDScript`
+
+## Charts
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=onp-china&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=onp-china&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=onp-china&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ## Projects
 
