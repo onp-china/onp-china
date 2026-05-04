@@ -10,6 +10,38 @@
   <img src="./assets/pixel-profile-panel.svg" alt="Kiki pixel profile panel" />
 </p>
 
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/onp-china/RL_class_Project-Car_racing">
+        <img src="https://raw.githubusercontent.com/onp-china/RL_class_Project-Car_racing/main/images/images/carracing.gif" alt="RL Car Racing preview" width="100%" />
+      </a>
+      <br />
+      <b>01 · RL Car Racing</b>
+      <br />
+      <sub>Reinforcement learning course project in a car-racing environment.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/onp-china/Persona">
+        <img src="https://raw.githubusercontent.com/onp-china/Persona/main/src/assets/characters/rin.jpeg" alt="Persona preview" width="100%" />
+      </a>
+      <br />
+      <b>02 · Persona</b>
+      <br />
+      <sub>A project exploring persona-based AI interaction.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/BSAI301/course-project-ex1-team-2">
+        <img src="./assets/robotics-preview.png" alt="Robotics Course Project preview" width="100%" />
+      </a>
+      <br />
+      <b>03 · Godot Balatro + LLM Cards</b>
+      <br />
+      <sub>Roughly recreated Balatro in Godot, and experimented with adding LLM-based cards.</sub>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <a href="https://github.com/onp-china/RL_class_Project-Car_racing">
     <img src="https://img.shields.io/badge/01_RL_CAR_RACING-OPEN-75A7FF?style=for-the-badge&labelColor=0B1020" alt="RL Car Racing" />
