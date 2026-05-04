@@ -1,32 +1,30 @@
-<h1 align="center">Hi there, I'm Zhang Ruizhe 👋</h1>
+<h1 align="center">Hey, I'm Zhang Ruizhe 👋</h1>
+<h3 align="center">AI Student @ MUST | Robotics x Diffusion x RL x Attention</h3>
+
 <p align="center">
-  <b>AI Student @ MUST</b> · Macau (UTC+8, Beijing Time)
+  <a href="https://github.com/onp-china">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Building+intelligent+agents+one+experiment+at+a+time;Robotic+Simulation+%7C+Diffusion+Policy+%7C+Reinforcement+Learning;Internship+Ready+%7C+Graduate+School+Applicant" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  🎓 大三 AI 专业学生，正在把想法变成能跑起来的机器人系统。<br/>
-  🎓 3rd-year AI student turning ideas into runnable robotic systems.
-</p>
-
-<p align="center">
-  <i>Building intelligent agents, one experiment at a time.</i><br/>
-  <i>把想法训练成会行动的智能体。</i>
+  <img src="https://img.shields.io/badge/Location-Macau_(UTC%2B8)-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Internship-00C853?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=onp-china&style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
 
-## 🙋 About Me | 关于我
+## About Me
 
--  我是澳门科技大学（MUST）AI 专业学生，目前大三。  
-   I’m a third-year AI student at MUST.
-- 🤖 最近专注：机器人仿真、`Diffusion + RL + Attention` 机器人训练。  
-  🤖 Current focus: robotic simulation and robot training with `Diffusion + RL + Attention`.
-- 🎯 近期目标：准备实习与研究生申请。  
-  🎯 Current goals: preparing for internships and graduate school applications.
+- Third-year AI student at MUST.
+- Focused on robotic simulation and robot model training with **Diffusion + RL + Attention**.
+- Preparing for internships and graduate school applications.
+- Interested in building practical, deployable intelligent systems.
 
 ---
 
-## 🛠 Tech Stack | 技术栈
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -40,48 +38,61 @@
 
 ---
 
-## 🚀 Featured Projects | 代表项目
+## Featured Projects
 
-### 1) RL Car Racing Project
+### RL Car Racing Project
 - Repo: [onp-china/RL_class_Project-Car_racing](https://github.com/onp-china/RL_class_Project-Car_racing)
-- CN: 强化学习课程项目，聚焦赛车环境中的策略学习与控制。  
-- EN: A reinforcement learning course project focused on policy learning and control in a car-racing environment.
+- Reinforcement learning course project focused on policy learning and control in a car-racing environment.
 
-### 2) Persona
+### Persona
 - Repo: [onp-china/Persona](https://github.com/onp-china/Persona)
-- CN: 面向 AI 应用场景的人设与交互探索项目。  
-- EN: A project exploring persona-driven interaction design for AI applications.
+- Persona-driven interaction exploration for AI applications.
 
-### 3) Robotics Course Project
+### Robotics Course Project
 - Repo: [BSAI301/course-project-ex1-team-2](https://github.com/BSAI301/course-project-ex1-team-2)
-- CN: 团队机器人课程项目，关注仿真、控制与系统实现。  
-- EN: A team robotics project focusing on simulation, control, and system implementation.
+- Team robotics project focused on simulation, control, and full-system implementation.
 
 ---
 
-## 📈 GitHub Snapshot
+## GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=onp-china&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=onp-china&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=onp-china&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=onp-china&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onp-china&layout=compact&hide_border=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onp-china&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌱 Now | 近期动态
+## WakaTime
 
-- CN: 正在做机器人仿真实验，并尝试结合 Diffusion、RL、Attention 训练机器人模型。  
-- EN: Currently running robotic simulation experiments and exploring robot training with Diffusion, RL, and Attention.
-- CN: 正在准备实习与研究生申请。  
-- EN: Preparing for internship opportunities and graduate school applications.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=onp_china&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
+
+> If this card is empty, make sure your WakaTime profile is public and your username is correct.
 
 ---
 
-## ⚡ Motto | 小句子
+## Contribution Snake
 
-> CN: 代码是我和世界对话的方式。  
-> EN: Code is how I talk to the world.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/onp-china/onp-china/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</p>
+
+---
+
+## Current Focus
+
+- Robotic simulation experiments.
+- Diffusion policy and RL training pipelines.
+- Internship preparation and graduate-school applications.
+
+---
+
+## Motto
+
+> Code, Train, Iterate, Repeat.
