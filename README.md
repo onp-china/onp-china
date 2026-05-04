@@ -1,13 +1,15 @@
 <p align="center">
-  <img src="./assets/music-strip.svg" alt="Night music strip" />
-</p>
-
-<p align="center">
   <img src="./assets/pixel-profile-panel.svg" alt="Kiki pixel profile panel" />
 </p>
 
 <p align="center">
   <img src="./assets/yamada-ryo-intro.png" alt="Yamada Ryo intro photo" />
+</p>
+
+## Stack Chart
+
+<p align="center">
+  <img height="185" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=onp-china&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <table>
@@ -57,8 +59,4 @@
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=onp-china&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=onp-china&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=onp-china&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
