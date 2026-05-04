@@ -1,0 +1,38 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="430" fill="#0b1020"/>
+  <text x="64" y="72" fill="#e7f0ff" font-family="'Courier New', monospace" font-size="34" font-weight="700">selected projects</text>
+  <rect x="64" y="92" width="210" height="8" fill="#75a7ff"/>
+
+  <g transform="translate(64 126)">
+    <rect width="330" height="220" fill="#111831" stroke="#75a7ff" stroke-width="4"/>
+    <rect x="18" y="18" width="294" height="184" fill="#0d1328"/>
+    <rect x="36" y="38" width="48" height="48" fill="#75a7ff"/>
+    <rect x="48" y="50" width="24" height="24" fill="#0d1328"/>
+    <text x="36" y="116" fill="#e7f0ff" font-family="'Courier New', monospace" font-size="24" font-weight="700">RL Car Racing</text>
+    <text x="36" y="154" fill="#9cc2ff" font-family="'Courier New', monospace" font-size="18">reinforcement learning</text>
+    <text x="36" y="184" fill="#75a7ff" font-family="'Courier New', monospace" font-size="18">Python</text>
+  </g>
+
+  <g transform="translate(435 126)">
+    <rect width="330" height="220" fill="#111831" stroke="#75a7ff" stroke-width="4"/>
+    <rect x="18" y="18" width="294" height="184" fill="#0d1328"/>
+    <rect x="36" y="40" width="64" height="36" fill="#75a7ff"/>
+    <rect x="52" y="52" width="32" height="12" fill="#0d1328"/>
+    <text x="36" y="116" fill="#e7f0ff" font-family="'Courier New', monospace" font-size="24" font-weight="700">Persona</text>
+    <text x="36" y="154" fill="#9cc2ff" font-family="'Courier New', monospace" font-size="18">AI interaction study</text>
+    <text x="36" y="184" fill="#75a7ff" font-family="'Courier New', monospace" font-size="18">Vue</text>
+  </g>
+
+  <g transform="translate(806 126)">
+    <rect width="330" height="220" fill="#111831" stroke="#75a7ff" stroke-width="4"/>
+    <rect x="18" y="18" width="294" height="184" fill="#0d1328"/>
+    <rect x="36" y="38" width="54" height="54" fill="#75a7ff"/>
+    <rect x="48" y="50" width="30" height="30" fill="#0d1328"/>
+    <rect x="104" y="58" width="68" height="12" fill="#9cc2ff"/>
+    <text x="36" y="116" fill="#e7f0ff" font-family="'Courier New', monospace" font-size="24" font-weight="700">Robotics Project</text>
+    <text x="36" y="154" fill="#9cc2ff" font-family="'Courier New', monospace" font-size="18">team course project</text>
+    <text x="36" y="184" fill="#75a7ff" font-family="'Courier New', monospace" font-size="18">Simulation</text>
+  </g>
+
+  <text x="64" y="394" fill="#6882b6" font-family="'Courier New', monospace" font-size="18">click the links below to open each repository</text>
+</svg>
