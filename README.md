@@ -17,8 +17,8 @@
 
 ## 🙋 About Me | 关于我
 
-- 🇨🇳 我是澳门科技大学（MUST）AI 专业学生，目前大三。  
-  🇬🇧 I’m a third-year AI student at MUST.
+-  我是澳门科技大学（MUST）AI 专业学生，目前大三。  
+   I’m a third-year AI student at MUST.
 - 🤖 最近专注：机器人仿真、`Diffusion + RL + Attention` 机器人训练。  
   🤖 Current focus: robotic simulation and robot training with `Diffusion + RL + Attention`.
 - 🎯 近期目标：准备实习与研究生申请。  
