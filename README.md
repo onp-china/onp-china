@@ -28,12 +28,14 @@
 
 <p align="center">
   <a href="https://github.com/onp-china/RL_class_Project-Car_racing">
-    <img src="https://img.shields.io/badge/open-RL%20Car%20Racing-75a7ff?style=for-the-badge&labelColor=0b1020" />
+    RL Car Racing
   </a>
+  ·
   <a href="https://github.com/onp-china/Persona">
-    <img src="https://img.shields.io/badge/open-Persona-9cc2ff?style=for-the-badge&labelColor=0b1020" />
+    Persona
   </a>
+  ·
   <a href="https://github.com/BSAI301/course-project-ex1-team-2">
-    <img src="https://img.shields.io/badge/open-Robotics%20Project-d9e7ff?style=for-the-badge&labelColor=0b1020" />
+    Robotics Project
   </a>
 </p>
